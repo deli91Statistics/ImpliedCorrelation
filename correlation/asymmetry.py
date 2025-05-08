@@ -71,3 +71,5 @@ def sample_garch_QIC_vs_pearson(asset_returns, benchmark_portfolios, alpha, asse
 
 
 # generalize to two generic correlation vectors, reference cor  minus experimental cor
+
+ssh-keygen -t ed25519 -C "github@dennis-mao.com"

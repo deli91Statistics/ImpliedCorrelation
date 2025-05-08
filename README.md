@@ -1,2 +1,1 @@
-"# ImpliedCorrelation" 
-"# ImpliedCorrelation" 
+This repository highlights the code used to generate tail-adjusted matrices. In particular, they compute Value-at-Risk and Expected Shortfall implied correlation which can serve as an alternative covariance estimate for mean-variance portfolio optimization.

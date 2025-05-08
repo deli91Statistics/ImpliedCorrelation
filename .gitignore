@@ -1,0 +1,10 @@
+# git ignore commands: 
+
+# Environments
+.venv
+results
+
+# Byte-compiled
+__pycache__
+
+
